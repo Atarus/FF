@@ -27,7 +27,7 @@ public class GameScreen extends Screen {
 
 	public GameScreen(Game game) {
 		super(game);
-		player.xpos = 50;
+		
 		// Initialize game objects here
 
 		
